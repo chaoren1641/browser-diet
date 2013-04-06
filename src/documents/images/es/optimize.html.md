@@ -9,8 +9,6 @@ Hay herramientas para la optimización de imágenes que borrarán estos datos in
 
 Otra forma de optimizar imágenes es comprimirlas a cambio de calidad visual. Llamamos a esto una *optimización con pérdida*. Cuando exportas un JPEG, por ejemplo, puedes escoger el nivel de calidad (un número del uno al 100). Pensando en el rendimiento, siempre escoge el menor número posible mientras la calidad visual sea aceptable. Otra forma común de optimizar con pérdida es reducir la paleta de colores en un PNG, o convertir archivos PNG-24 en PNG-8.
 
-*> Herramientas **online**: [Kraken.io](http://kraken.io), [Smush.it](http://www.smushit.com), [TinyPNG](http://tinypng.org/), [JPEGmini](http://jpegmini.com/).*
+Para mejorar la percepción de rendimiento del usuario, deberías también transformar todos tus archivos JPEG en JPEGs progresivos. Los JPEGs progresivos son soportados por una gran cantidad de navegadores, son muy simples de crear, y no conllevan ningúna pérdida de rendimiento significativa. La ventaja es que la imagen aparecerá más pronto en la página ([ver demo](http://www.patrickmeenan.com/progressive/view.php?img=http://farm2.staticflickr.com/1434/1002257937_021cb46a33_o.jpg)).
 
-*> Herramientas **de escritorio**: [ImageOptim](http://imageoptim.com/) (Mac), [RIOT](http://luci.criosweb.ro/riot/download/) (Windows), [ImageAlpha](http://pngmini.com/) (Mac).*
-
-Hay también varias herramientas de línea de comandos como *pngout*, *jpegtran*, *gifsicle*, *imgopt* y más.
+*> [Herramientas útiles](https://github.com/zenorocha/browser-diet/wiki/Tools#optimize-your-images) / [Referencias](https://github.com/zenorocha/browser-diet/wiki/References#optimize-your-images)*
