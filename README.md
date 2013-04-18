@@ -1,7 +1,3 @@
-*[Leia em Português](https://github.com/zenorocha/browser-diet/blob/master/README-pt.md) ● [Leer en Español](https://github.com/zenorocha/browser-diet/blob/master/README-es.md)*
-
----
-
 # How to lose weight (in the browser)
 
 The definitive front-end performance guide.
@@ -110,6 +106,8 @@ Lists all NodeJS dependencies.
 
 * [Mike Taylor](https://github.com/miketaylr) (English)
 * [Emilio Cobos Álvarez](https://github.com/ecoal95) (Spanish)
+* [Lukasz Jakub Adamczuk](https://github.com/lukasz-jakub-adamczuk) (Polish)
+* [Fordlee](https://github.com/fordlee404) (Chinese)
 
 ## Credits
 
